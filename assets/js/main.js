@@ -11,11 +11,11 @@ console.log(camelCase)
 let pI = 3.14 
 console.log(pI)
 
-const burjDubai = "828m"
-console.log(burjDubai)
+const burjDubai = 828
+console.log(burjDubai + "m")
 
-const eifelTower = "324m"
-console.log(eifelTower)
+const eifelTower = 324
+console.log(eifelTower +"m")
 
 let kursStatus = true
 console.log(kursStatus) 
